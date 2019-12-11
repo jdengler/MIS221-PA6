@@ -1,0 +1,15 @@
+C:\Users\Josh\source\repos\GroupPA6\GroupPA6\bin\Debug\GroupPA6.exe.config
+C:\Users\Josh\source\repos\GroupPA6\GroupPA6\bin\Debug\GroupPA6.exe
+C:\Users\Josh\source\repos\GroupPA6\GroupPA6\bin\Debug\GroupPA6.pdb
+C:\Users\Josh\source\repos\GroupPA6\GroupPA6\obj\Debug\GroupPA6.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\GroupPA6\GroupPA6\obj\Debug\GroupPA6.frmCWID.resources
+C:\Users\Josh\source\repos\GroupPA6\GroupPA6\obj\Debug\GroupPA6.Properties.Resources.resources
+C:\Users\Josh\source\repos\GroupPA6\GroupPA6\obj\Debug\GroupPA6.csproj.GenerateResource.cache
+C:\Users\Josh\source\repos\GroupPA6\GroupPA6\obj\Debug\GroupPA6.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\GroupPA6\GroupPA6\obj\Debug\GroupPA6.exe
+C:\Users\Josh\source\repos\GroupPA6\GroupPA6\obj\Debug\GroupPA6.pdb
+C:\Users\Josh\source\repos\GroupPA6\GroupPA6\obj\Debug\GroupPA6.frmMain.resources
+C:\Users\Josh\source\repos\GroupPA6\GroupPA6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Josh\source\repos\GroupPA6\GroupPA6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Josh\source\repos\GroupPA6\GroupPA6\obj\Debug\GroupPA6.csproj.CopyComplete
+C:\Users\Josh\source\repos\GroupPA6\GroupPA6\obj\Debug\GroupPA6.frmEdit.resources
